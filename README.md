@@ -367,3 +367,4 @@
 
 ✍️ 원본 대화 파일 이름: [ 대화로그_원본.txt ]
 
+https://docs.google.com/spreadsheets/d/1MsbChcUVPbjfXxu1_ypLUIEyQ0cdiccOclRceZ8YHS8/edit?gid=0#gid=0

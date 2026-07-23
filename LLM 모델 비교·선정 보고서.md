@@ -49,11 +49,7 @@
 
 ## STEP 4 · 모델 비교 평가
 
-**AI 1 = [ Gemini 3 Flash ]  
-  AI 2 = [ GPT-5.4 mini ]  
-  AI 3 = [ Claude Haiku 4.5 ]**
-
-| 채점 기준            	| AI 1 	| AI 2 	| AI 3 	|
+| 채점 기준            	| Gemini 3 Flash 	| GPT-5.4 mini 	| Claude Haiku 4.5 	|
 |---			   	         | :---:  |:---:  |:---:  |
 | 내용이 정확한가 	     | 	 4 	 |   4   | 	 5	 |
 | 한국어가 자연스러운가   |	  5	  |   5	  |   5   |
